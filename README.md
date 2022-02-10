@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a front-end web developer and designer; I build beautiful websites with HTML, CSS, and JavaScript. Along my formal education I have taken business, programming, art and design courses. I combine my skills of programming logic with my skills of design thinking to find and develop innovative solutions to a problem. 
+I am a front-end web developer and designer; I build beautiful websites with HTML, CSS, and JavaScript. Along with my formal education, I have taken business, programming, art, and design courses. I combine my skills of programming logic with my skills of design thinking to find and develop innovative solutions to a problem. 
 
 <!--
 **jacobxperez/jacobxperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
