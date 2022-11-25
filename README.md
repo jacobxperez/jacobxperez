@@ -1,4 +1,4 @@
-# UX/UI Web Designer & Front-End Web Developer
+# Web Designer & Front-End Web Developer
 
 I design and develop beautiful websites with HTML, CSS, and JavaScript.
 I took business, programming, art, and design courses during my formal
