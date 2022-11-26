@@ -9,6 +9,4 @@ Figma. As a designer, I can sketch wireframes and prototype user experience
 designs using Adobe XD, Photoshop, Illustrator, and Figma. As a developer,
 I code responsive websites in HTML, CSS, and JavaScript. Over time I
 have developed RAMs, a web framework that allows me to quickly assemble
-any design with minimal effort and very few lines of code. Also, I am a
-photographer, and I take immense pleasure in taking pictures of people
-and landscapes.
+any design with minimal effort and very few lines of code.
